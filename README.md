@@ -42,7 +42,7 @@
 
 │   ├── clip_fashion_final.pt      # Финальные веса
 
-│   └── image_embeddings.pt        # 📥 [Создается при запуске шагов Jupyter Notebook. Либо можно скачать готовые эмбединги по ссылке или запросив у автора репозитория](#) (кэш для поиска)
+│   └── image_embeddings.pt        # (кэш для поиска)
 
 └── 📁 logs/                       # Логи обучения и метрики
 
@@ -51,8 +51,7 @@
 
 ### 🔗 Ссылки на дополнительные файлы
 Для быстрого старта без обучения скачайте готовые файлы:
-*   ⚖️ **Веса модели (Checkpoints):** [📥 Скачать здесь](#) 
-*   🧮 **Векторные представления (Embeddings):** [📥 Скачать здесь](#)
+*   ⚖️ **Веса модели (Checkpoints):** +  🧮 **Векторные представления (Embeddings):** [![Google Drive](https://img.shields.io/badge/Download-Google_Drive-blue?logo=google-drive)](https://drive.google.com/drive/folders/1hKY_nzb2S_RCNYQVlZudlw3-pz8qwYjL?usp=sharing)
   
 ---
 
